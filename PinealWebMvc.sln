@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinealWebMvc", "PinealWebMvc\PinealWebMvc.csproj", "{285A5F68-A429-43F6-BEEA-936EA1226787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285A5F68-A429-43F6-BEEA-936EA1226787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285A5F68-A429-43F6-BEEA-936EA1226787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285A5F68-A429-43F6-BEEA-936EA1226787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285A5F68-A429-43F6-BEEA-936EA1226787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2350F8-4BB8-46D1-90D8-374FE389744F}
+	EndGlobalSection
+EndGlobal
